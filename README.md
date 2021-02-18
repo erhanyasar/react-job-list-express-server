@@ -2,6 +2,6 @@
 
 ## Available Scripts
 
-### `yarn start`
+### `yarn server`
 
 Please type it at working directory in your terminal. 
